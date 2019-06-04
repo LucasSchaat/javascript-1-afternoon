@@ -2,7 +2,7 @@
 
 //Create a variable called myName that is a string data type
 
-//Code here
+let myName = 'Lucas'
 
 //////////////////PROBLEM 2////////////////////
 
