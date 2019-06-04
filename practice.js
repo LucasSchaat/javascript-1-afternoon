@@ -44,16 +44,16 @@ function greeting(name) {
 //Rewrite the function greeting as a function expression.
 //Name it newGreeting.
 
-// let greeting = function (name) {
-//   return 'Hello, ' + name
-// }
+let newGreeting = function (name) {
+  return 'Hello, ' + name
+}
 
 //////////////////PROBLEM 8////////////////////
 
 //Create an array called groceries with the values
 //"apples", "milk", "eggs", "bread"
 
-//Code Here
+let groceries = ['apples','milk','eggs','bread']
 
 //////////////////PROBLEM 9////////////////////
 
@@ -62,12 +62,17 @@ function greeting(name) {
 //name (a string), color (a string), age (a number),
 //and goodBoy (a boolean).
 
-//Code Here
+let dog = {
+  name: 'Alfie'
+  color: 'blonde'
+  age: 2.5
+  goodBoy: true
+}
 
 //...access the dog's name from the object and assign it to a
 //variable called devMountainClassPet.
 
-//Code Here
+let devMountainClassPet = dog.name
 
 //////////////////PROBLEM 10////////////////////
 
