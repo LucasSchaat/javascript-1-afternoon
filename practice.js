@@ -63,16 +63,16 @@ let groceries = ['apples','milk','eggs','bread']
 //and goodBoy (a boolean).
 
 let dog = {
-  name: 'Alfie'
-  color: 'blonde'
-  age: 2.5
+  name: 'Alfie',
+  color: 'blonde',
+  age: 2.5,
   goodBoy: true
 }
 
 //...access the dog's name from the object and assign it to a
 //variable called devMountainClassPet.
 
-// let devMountainClassPet = dog.name
+let devMountainClassPet = dog.name
 
 //////////////////PROBLEM 10////////////////////
 
