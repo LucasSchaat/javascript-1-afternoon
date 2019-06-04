@@ -53,7 +53,7 @@ let newGreeting = function (name) {
 //Create an array called groceries with the values
 //"apples", "milk", "eggs", "bread"
 
-// let groceries = ['apples','milk','eggs','bread']
+let groceries = ['apples','milk','eggs','bread']
 
 //////////////////PROBLEM 9////////////////////
 
