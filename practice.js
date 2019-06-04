@@ -44,9 +44,9 @@ function greeting(name) {
 //Rewrite the function greeting as a function expression.
 //Name it newGreeting.
 
-let greeting = function (name) {
-  return 'Hello, ' + name
-}
+// let greeting = function (name) {
+//   return 'Hello, ' + name
+// }
 
 //////////////////PROBLEM 8////////////////////
 
